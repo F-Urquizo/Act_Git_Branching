@@ -6,8 +6,8 @@ USE act_git_branching;
 CREATE TABLE members(
 
 	MemberID INT NOT NULL,
-	name VARCHAR(20)
-
+	name VARCHAR(20),
+        email VARCHAR(50)
 );
 
 
