@@ -1,4 +1,3 @@
 
 console.log("hello world");
-
-//agregar una suma o algo muy loco jaja
+console.log(2+2);
